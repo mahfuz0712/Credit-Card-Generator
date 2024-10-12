@@ -1,0 +1,46 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDE and editor settings
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+develop-eggs/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated files
+Generated Cards/
+*.pdf
+
+# Log files
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Generator.spec
+developer.jpg
